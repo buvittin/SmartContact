@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Smart Contact</string>
+
+    <!-- TODO: Facebook login -->
+    <string name="facebook_app_id">810414779093167</string>
+    <!--END: Facebook login-->
+
+    <!-- TODO: Google+ login -->
+    <string name="server_client_id">1092181658928-id13uj25lm7k92s9rrbduuapss3v79a5.apps.googleusercontent.com</string>
+    <!--END: Facebook login-->
+
+    <!-- TODO: Twitter login-->
+    <string name="login_label">Login to Twitter</string>
+    <string name="enter_label">Enter share message</string>
+    <string name="login_btn">Login to Twitter</string>
+    <string name="share_btn">Share</string>
+
+    <string name="twitter_callback">http://javatechig.android.app</string>
+    <string name="twitter_consumer_key">KSq3dz4vHQonEnRQzFxYLIs3S</string>
+    <string name="twitter_consumer_secret">bHqMac6937k2vvbq8aA9wzAtVrpEE1q9joJKgyiQ4wH7sUYDFv</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+    <string name="title_activity_web_view">LoginTwitter</string>
+    <!--END: Twitter-->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="GiaoDien">R.style.AppThemeColor</string>
+    <string name="title_activity_cai_dat">CaiDatActivity</string>
+</resources>

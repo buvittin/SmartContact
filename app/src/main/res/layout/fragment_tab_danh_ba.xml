@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hackernam.smartcontact.TabDanhBaFragment"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <SearchView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/svTimKiem"
+        android:iconifiedByDefault="false"
+        android:queryHint="Tìm kiếm theo tên ..."
+        android:focusable="false"
+        android:baselineAligned="false"
+        android:queryBackground="@color/color10"
+        android:background="?attr/colorPrimary" />
+
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@android:id/list"
+        android:layout_gravity="center" />
+
+</LinearLayout>

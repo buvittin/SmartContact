@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#125688</color>
+    <color name="colorPrimaryDark">#125688</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#073659</color>
+
+    <color name="color1">#055087</color>
+    <color name="color2">#47b1ff</color>
+    <color name="color3">#1beaba</color>
+    <color name="color4">#055087</color>
+    <color name="color5">#219407</color>
+    <color name="color6">#ff6262</color>
+    <color name="color7">#850df5</color>
+    <color name="color8">#dfd10c</color>
+    <color name="color9">#eca841</color>
+    <color name="color10">#ffffff</color>
+
+    <color name="color1Primary">#125688</color>
+    <color name="color1PrimaryDark">#125688</color>
+    <color name="color1Accent">#073659</color>
+
+    <color name="color2Primary">#47b1ff</color>
+    <color name="color2PrimaryDark">#2b9ff4</color>
+    <color name="color2Accent">#1292f2</color>
+
+    <color name="color3Primary">#1beaba</color>
+    <color name="color3PrimaryDark">#17cca2</color>
+    <color name="color3Accent">#119778</color>
+
+    <color name="color4Primary">#ff6262</color>
+    <color name="color4PrimaryDark">#d93636</color>
+    <color name="color4Accent">#d10a0a</color>
+
+    <color name="color5Primary">#ba7af5</color>
+    <color name="color5PrimaryDark">#993cef</color>
+    <color name="color5Accent">#850df5</color>
+
+    <color name="color6Primary">#faf174</color>
+    <color name="color6PrimaryDark">#eadf3d</color>
+    <color name="color6Accent">#dfd10c</color>
+</resources>
